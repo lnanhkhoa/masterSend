@@ -2,7 +2,7 @@
 import os
 import json
 import time
-from time import gmtime, strftime
+from time import localtime, strftime
 
 # Enable the required Python libraries for working with Cloudant.
 from cloudant.client import Cloudant
@@ -15,11 +15,65 @@ import copy, random
 import urllib2 
 from tinydb import TinyDB, Query
 
-#Import Flask Website
-# from flask import Flask, render_template, jsonify, request
-# app = Flask(__name__)
+
+import serial, glob
+#initialization and open the port
+
+#possible timeout values:
+#    1. None: wait forever, block call
+#    2. 0: non-blocking mode, return immediately
+#    3. x, x is bigger than 0, float allowed, timeout block call
+
+temp_list = glob.glob ('/dev/ttyACM*')
+
+print temp_list
+ser = serial.Serial()
+ser.port = "/dev/ttyACM0"
+# ser.port = "/dev/ttyUSB7"
+#ser.port = "/dev/ttyS2"
+ser.baudrate = 115200
+ser.bytesize = serial.EIGHTBITS #number of bits per bytes
+ser.parity = serial.PARITY_NONE #set parity check: no parity
+ser.stopbits = serial.STOPBITS_ONE #number of stop bits
+#ser.timeout = None          #block read
+ser.timeout = 1            #non-block read
+#ser.timeout = 2              #timeout block read
+ser.xonxoff = False     #disable software flow control
+ser.rtscts = False     #disable hardware (RTS/CTS) flow control
+ser.dsrdtr = False       #disable hardware (DSR/DTR) flow control
+ser.writeTimeout = 2     #timeout for write
 
 
+
+
+
+
+arrayName = ["pH", "Soil Humidity", "Soil Temperature", "uV", " Air Humidity", "Air Temperature"]
+
+addressNode = []
+
+dataNode = []
+
+jsonNode = {}
+
+jsonSample = {}
+
+jsonSensor = {}
+
+
+jsonMask = {
+    "rightNow":" ",
+    "welcome": "Hello, guest!",
+    "name": "MEMSiTech Application",
+    "_id": "0",
+    "idCount": 0,
+    "type": "json"
+}
+
+
+
+
+#---------------------------------------------------------------------------
 
 ##-------------------------------------------
 #
@@ -30,6 +84,8 @@ from tinydb import TinyDB, Query
 #   You should create account in console.ng.bluemix.com, add a credit card and create inginite Cloudant's account.
 #
 ##-------------------------------------------
+
+
 VCAP_SERVICES={
     "cloudantNoSQLDB": [
         {
@@ -55,8 +111,6 @@ VCAP_SERVICES={
     ]
 }
 
-
-
 vcap_servicesData = VCAP_SERVICES
 cloudantNoSQLDBData = vcap_servicesData['cloudantNoSQLDB']
 credentials = cloudantNoSQLDBData[0]
@@ -64,72 +118,6 @@ credentialsData = credentials['credentials']
 serviceUsername = credentialsData['username']
 servicePassword = credentialsData['password']
 serviceURL = credentialsData['url']
-
-jsonSample={
-    "payload": {
-        "Node_01": {
-            "name": "MST-001",
-            "payload":{
-                "sensor_01": {
-                    "name": "Temperature",
-                    "value": 3
-                },
-                "sensor_02": {
-                    "name": "Humidity",
-                    "value": 10
-                }
-            }
-        },
-        "Node_02": {
-            "name": "MST-005",
-            "payload":{
-                "sensor_01": {
-                    "name": "Temperature",
-                    "value": 5
-                },
-                "sensor_02": {
-                    "name": "Humidity",
-                    "value": 3
-                }
-            }
-        },
-        "Node_03": {
-            "name": "MST-009",
-            "payload":{
-                "sensor_01": {
-                    "name": "Temperature",
-                    "value": 10
-                },
-                "sensor_02": {
-                    "name": "Humidity",
-                    "value": 40
-                }
-            }
-        },
-        "Node_04": {
-            "name": "MST-008",
-            "payload":{
-                "sensor_01": {
-                    "name": "Temperature",
-                    "value": 10
-                },
-                "sensor_02": {
-                    "name": "Humidity",
-                    "value": 40
-                }
-            }
-        }
-    }
-}
-
-jsonMask = {
-    "rightNow":" ",
-    "welcome": "Hello, guest!",
-    "name": "MEMSiTech Application",
-    "_id": "0",
-    "idCount": 0,
-    "type": "json"
-}
 
 db = Cloudant(serviceUsername, servicePassword, url=serviceURL,timeout=1)
 
@@ -187,18 +175,6 @@ def search_localDatabase(pathDatabase):
     nameSeason = nameSeason.replace('.json',"")
     return [nameSeason,path]
 
-def get_UARTCC1350():
-    result = True
-    # time.sleep(5)
-    print "Data from Uart"
-    if result:
-        for node in jsonSample['payload']:
-            for sensor in jsonSample['payload'][node]['payload']:
-                jsonSample['payload'][node]['payload'][sensor]['value'] = random.randrange(10, 100, 3)
-        return [jsonSample,result]
-    else:
-        return [{},result]
-
 
 def saveFileJSON(jsondata):
     try:
@@ -206,6 +182,7 @@ def saveFileJSON(jsondata):
         return True
     except:
         return False
+
 
 def check_currentSeason(design_seasons):
     #####----------------#####
@@ -225,7 +202,7 @@ def check_currentSeason(design_seasons):
     return False
     #db.disconnect()    # the command use 1.8s
 
-def send_data_to_Cloud(nameSeason,jsondata):
+def send_data_to_Cloud(nameSeason, jsondata):
     #db.connect()    # the command use 1.8s
     try:
         db[nameSeason].create_document(jsondata)
@@ -277,7 +254,7 @@ class SYNC_local_Cloudant():
             return True
         return False
 
-def refresh_sampledata(nameSeason,jsondata):
+def refresh_sampledata(nameSeason, jsondata):
     #####----------------#####
     #   get current Season to send data 
     #   the current Season is the max 
@@ -293,6 +270,7 @@ def refresh_sampledata(nameSeason,jsondata):
     jsondata.update(jsonMask)
     del jsondata['_id']
     del jsondata['idCount']
+    del jsondata['rightNow']
 
     if '_design/newsampledata' not in db[nameSeason].list_design_documents():
         # Create sample data
@@ -315,6 +293,105 @@ def refresh_sampledata(nameSeason,jsondata):
     return True
 
 
+
+
+
+
+# ----------------------------------------------------------------------------------------
+#
+#
+#   Function for get UART CC1350
+#
+# ----------------------------------------------------------------------------------------
+
+
+def setVarBuff():
+    global jsonNode, jsonSample, jsonSensor
+    jsonNode = {
+        "name": "",
+        "payload":{}
+    }
+    jsonSample = {
+        "payload": {
+        }
+    }
+    jsonSensor = {
+        "name": "",
+        "value": 0
+    }
+
+def resetVarBuff():
+    global jsonNode, jsonSample, jsonSensor
+    addressNode = []
+    dataNode = []
+    jsonNode = {}
+    jsonSample = {}
+    jsonSensor = {}
+
+def operator(addressNode):
+    if len(addressNode)>0:
+        setVarBuff()
+        for i in range(0,len(addressNode)):
+            jsontemp = copy.deepcopy(jsonNode)
+            jsontemp['name'] = addressNode[i]
+            for x in range(0,6):
+                jsonTempSensor = copy.deepcopy(jsonSensor)
+                jsonTempSensor['name'] = arrayName[x]
+                jsonTempSensor['value'] = dataNode[i][x]
+                jsontemp['payload'].update({"sensor_0"+str(x+1):jsonTempSensor})
+            jsontemp.update({"rightNow": strftime("%Y-%m-%d %H:%M:%S", localtime())})
+        jsonSample['payload'].update({"Node_0"+str(i+1):jsontemp})
+
+
+def check_frame(line):
+    if line.find("***|") != -1: # check Start
+        if line.find("|***") != -1: # check stop
+            return True
+        return False
+    return False
+
+
+def getUart_CC1350():
+    count = 0
+    if ser.inWaiting()>0:
+        time.sleep(5)   # Time to waiting buffer is done
+        setVarBuff()    #set when get data, reset when send data to Cloud for the next time
+        while ser.inWaiting()>0:
+            line = ser.readline()
+            if check_frame(line):
+                start = time.time()
+                line = line.replace('\r\n','').replace("***|","").replace("|***","")
+                array = line.split('|')
+                # print array
+                nameNode = array.pop(0)
+                if nameNode in addressNode:
+                    dataNode[addressNode.index(nameNode)] = array
+                    # print dataNode
+                else:
+                    addressNode.append(nameNode)
+                    dataNode.append([])
+                    dataNode[addressNode.index(nameNode)] = array
+                count+=1
+                print "Time to get Uart: " + str(time.time() - start)
+            else:
+                print "It's not my frame."
+        if count>0:
+            operator(addressNode)
+        return [jsonSample, True]
+    else:
+        print "Nothing"
+        return [{}, False]
+
+
+# ----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 # Get path of the current dir, then use it to create paths:
 CURRENT_DIR = os.path.dirname(__file__)
 
@@ -324,6 +401,31 @@ pathDatabase = os.path.join(CURRENT_DIR, 'database/')
 # os.path.exists(nameSeason)
 
 if __name__ == '__main__':
+
+
+
+
+    # -----------------------
+    #
+    #   Init for Serial port
+    #
+    # -----------------------
+    try: 
+        ser.open()
+    except Exception as e:
+        ser.close()
+        ser.open()
+
+    if ser.isOpen():
+        ser.flushInput()  #flush input buffer, discarding all its contents
+        ser.flushOutput() #flush output buffer, aborting current output
+        while ser.inWaiting()>0:
+            # time.sleep(0.5)  #give the serial port sometime to receive the data
+            temp = ser.read(ser.inWaiting())
+            del temp
+
+    # ---------------------------------------------------------------------------
+
     db_disConnect = True
     [namelocal, path] = search_localDatabase(pathDatabase)
     print path
@@ -336,17 +438,18 @@ if __name__ == '__main__':
     while True:
         length = len(tinydb)
         jsonMask['idCount'] = length
-
-        [jsonGet, resultUART] = get_UARTCC1350()
+        if ser.isOpen():
+            [jsonGet, resultUART] = getUart_CC1350()
         if resultUART : # have signal UART from CC1350
-            jsonMask['rightNow'] = strftime("%Y-%m-%d %H:%M:%S", gmtime())
+            jsonMask['rightNow'] = strftime("%Y-%m-%d %H:%M:%S", localtime())
             jsonMask['idCount'] = jsonMask['idCount'] +1
             jsonGet.update(jsonMask)
             if saveFileJSON(jsonGet):
                 print "Save OK"
+                resetVarBuff()
 
         if InternetIsConnect():
-            # try:
+            try:
                 if db_disConnect:
                     db.connect()    # the command use 1.8s
                     db_disConnect = False
@@ -375,7 +478,9 @@ if __name__ == '__main__':
                     print "yes. A new season"
                 else:
                     print "No"
-            # except: print 'ecapse'
+                time.sleep(5)
+            except: 
+                print 'ecapse'
         else:
             print "Raspberry Pi has to sleep in every 10s"
             db_disConnect = True
