@@ -122,17 +122,8 @@ serviceURL = credentialsData['url']
 db = Cloudant(serviceUsername, servicePassword, url=serviceURL,timeout=1)
 
 # import RPi.GPIO as GPIO
-# import time
-# import sys
 # import pprint
 # import os, json
-# import ibmiotf.application
-# import ibmiotf.device
-# import uuid
-
-# GPIO.setmode(GPIO.BCM)
-# GPIO.setup(18, GPIO.IN, pull_up_down=GPIO.PUD_UP)
-# GPIO.setup(17, GPIO.OUT)
 
 def InternetIsConnect():
     try:
@@ -484,5 +475,5 @@ if __name__ == '__main__':
         else:
             print "Raspberry Pi has to sleep in every 10s"
             db_disConnect = True
-            time.sleep(10)
+            time.sleep(60)  #Time to sleep when internet is disconnect.
     db.disconnect()    # the command use 1.8s
