@@ -1,1 +1,4564 @@
-{"_default": {"1": {"idCount": 1, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:09:48", "payload": {"sensor_01": {"name": "pH", "value": "1045"}, "sensor_02": {"name": "Soil Humidity", "value": "1123"}, "sensor_03": {"name": "Soil Temperature", "value": "0239"}, "sensor_04": {"name": "uV", "value": "0940"}, "sensor_05": {"name": " Air Humidity", "value": "1065"}, "sensor_06": {"name": "Air Temperature", "value": "0046"}}}}, "rightNow": "2017-07-06 12:09:48", "_id": "0"}, "2": {"idCount": 2, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:09:58", "payload": {"sensor_01": {"name": "pH", "value": "1371"}, "sensor_02": {"name": "Soil Humidity", "value": "1412"}, "sensor_03": {"name": "Soil Temperature", "value": "0390"}, "sensor_04": {"name": "uV", "value": "1265"}, "sensor_05": {"name": " Air Humidity", "value": "1428"}, "sensor_06": {"name": "Air Temperature", "value": "0045"}}}}, "rightNow": "2017-07-06 12:09:58", "_id": "0"}, "3": {"idCount": 3, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:10:08", "payload": {"sensor_01": {"name": "pH", "value": "1454"}, "sensor_02": {"name": "Soil Humidity", "value": "1493"}, "sensor_03": {"name": "Soil Temperature", "value": "0418"}, "sensor_04": {"name": "uV", "value": "1342"}, "sensor_05": {"name": " Air Humidity", "value": "1517"}, "sensor_06": {"name": "Air Temperature", "value": "0110"}}}}, "rightNow": "2017-07-06 12:10:08", "_id": "0"}, "4": {"idCount": 4, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:10:18", "payload": {"sensor_01": {"name": "pH", "value": "1220"}, "sensor_02": {"name": "Soil Humidity", "value": "1272"}, "sensor_03": {"name": "Soil Temperature", "value": "0299"}, "sensor_04": {"name": "uV", "value": "1108"}, "sensor_05": {"name": " Air Humidity", "value": "1255"}, "sensor_06": {"name": "Air Temperature", "value": "0183"}}}}, "rightNow": "2017-07-06 12:10:18", "_id": "0"}, "5": {"idCount": 5, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:10:59", "payload": {"sensor_01": {"name": "pH", "value": "1360"}, "sensor_02": {"name": "Soil Humidity", "value": "1399"}, "sensor_03": {"name": "Soil Temperature", "value": "0377"}, "sensor_04": {"name": "uV", "value": "1245"}, "sensor_05": {"name": " Air Humidity", "value": "1405"}, "sensor_06": {"name": "Air Temperature", "value": "0036"}}}}, "rightNow": "2017-07-06 12:10:59", "_id": "0"}, "6": {"idCount": 6, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:11:09", "payload": {"sensor_01": {"name": "pH", "value": "1377"}, "sensor_02": {"name": "Soil Humidity", "value": "1417"}, "sensor_03": {"name": "Soil Temperature", "value": "0392"}, "sensor_04": {"name": "uV", "value": "1269"}, "sensor_05": {"name": " Air Humidity", "value": "1432"}, "sensor_06": {"name": "Air Temperature", "value": "0050"}}}}, "rightNow": "2017-07-06 12:11:09", "_id": "0"}, "7": {"idCount": 7, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:11:19", "payload": {"sensor_01": {"name": "pH", "value": "1376"}, "sensor_02": {"name": "Soil Humidity", "value": "1414"}, "sensor_03": {"name": "Soil Temperature", "value": "0391"}, "sensor_04": {"name": "uV", "value": "1268"}, "sensor_05": {"name": " Air Humidity", "value": "1432"}, "sensor_06": {"name": "Air Temperature", "value": "0049"}}}}, "rightNow": "2017-07-06 12:11:19", "_id": "0"}, "8": {"idCount": 8, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:11:29", "payload": {"sensor_01": {"name": "pH", "value": "1390"}, "sensor_02": {"name": "Soil Humidity", "value": "1439"}, "sensor_03": {"name": "Soil Temperature", "value": "0412"}, "sensor_04": {"name": "uV", "value": "1284"}, "sensor_05": {"name": " Air Humidity", "value": "1450"}, "sensor_06": {"name": "Air Temperature", "value": "0064"}}}}, "rightNow": "2017-07-06 12:11:29", "_id": "0"}, "9": {"idCount": 9, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:11:39", "payload": {"sensor_01": {"name": "pH", "value": "1019"}, "sensor_02": {"name": "Soil Humidity", "value": "1103"}, "sensor_03": {"name": "Soil Temperature", "value": "0259"}, "sensor_04": {"name": "uV", "value": "0920"}, "sensor_05": {"name": " Air Humidity", "value": "1034"}, "sensor_06": {"name": "Air Temperature", "value": "0031"}}}}, "rightNow": "2017-07-06 12:11:39", "_id": "0"}, "10": {"idCount": 10, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:11:48", "payload": {"sensor_01": {"name": "pH", "value": "1348"}, "sensor_02": {"name": "Soil Humidity", "value": "1390"}, "sensor_03": {"name": "Soil Temperature", "value": "0371"}, "sensor_04": {"name": "uV", "value": "1237"}, "sensor_05": {"name": " Air Humidity", "value": "1397"}, "sensor_06": {"name": "Air Temperature", "value": "0018"}}}}, "rightNow": "2017-07-06 12:11:48", "_id": "0"}, "11": {"idCount": 11, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:11:58", "payload": {"sensor_01": {"name": "pH", "value": "1383"}, "sensor_02": {"name": "Soil Humidity", "value": "1425"}, "sensor_03": {"name": "Soil Temperature", "value": "0393"}, "sensor_04": {"name": "uV", "value": "1278"}, "sensor_05": {"name": " Air Humidity", "value": "1445"}, "sensor_06": {"name": "Air Temperature", "value": "0050"}}}}, "rightNow": "2017-07-06 12:11:58", "_id": "0"}, "12": {"idCount": 12, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:12:08", "payload": {"sensor_01": {"name": "pH", "value": "1436"}, "sensor_02": {"name": "Soil Humidity", "value": "1480"}, "sensor_03": {"name": "Soil Temperature", "value": "0416"}, "sensor_04": {"name": "uV", "value": "1328"}, "sensor_05": {"name": " Air Humidity", "value": "1502"}, "sensor_06": {"name": "Air Temperature", "value": "0094"}}}}, "rightNow": "2017-07-06 12:12:08", "_id": "0"}, "13": {"idCount": 13, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:12:17", "payload": {"sensor_01": {"name": "pH", "value": "1410"}, "sensor_02": {"name": "Soil Humidity", "value": "1447"}, "sensor_03": {"name": "Soil Temperature", "value": "0395"}, "sensor_04": {"name": "uV", "value": "1297"}, "sensor_05": {"name": " Air Humidity", "value": "1466"}, "sensor_06": {"name": "Air Temperature", "value": "0074"}}}}, "rightNow": "2017-07-06 12:12:17", "_id": "0"}, "14": {"idCount": 14, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 12:12:27", "payload": {"sensor_01": {"name": "pH", "value": "1141"}, "sensor_02": {"name": "Soil Humidity", "value": "1213"}, "sensor_03": {"name": "Soil Temperature", "value": "0348"}, "sensor_04": {"name": "uV", "value": "1046"}, "sensor_05": {"name": " Air Humidity", "value": "1170"}, "sensor_06": {"name": "Air Temperature", "value": "0127"}}}}, "rightNow": "2017-07-06 12:12:27", "_id": "0"}, "15": {"idCount": 15, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:14:21", "payload": {"sensor_01": {"name": "pH", "value": "1101"}, "sensor_02": {"name": "Soil Humidity", "value": "1100"}, "sensor_03": {"name": "Soil Temperature", "value": "0404"}, "sensor_04": {"name": "uV", "value": "1090"}, "sensor_05": {"name": " Air Humidity", "value": "1201"}, "sensor_06": {"name": "Air Temperature", "value": "0168"}}}}, "rightNow": "2017-07-06 14:14:21", "_id": "0"}, "16": {"idCount": 16, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:14:35", "payload": {"sensor_01": {"name": "pH", "value": "1342"}, "sensor_02": {"name": "Soil Humidity", "value": "1404"}, "sensor_03": {"name": "Soil Temperature", "value": "0411"}, "sensor_04": {"name": "uV", "value": "1245"}, "sensor_05": {"name": " Air Humidity", "value": "1399"}, "sensor_06": {"name": "Air Temperature", "value": "0003"}}}}, "rightNow": "2017-07-06 14:14:35", "_id": "0"}, "17": {"idCount": 17, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:14:49", "payload": {"sensor_01": {"name": "pH", "value": "1212"}, "sensor_02": {"name": "Soil Humidity", "value": "1290"}, "sensor_03": {"name": "Soil Temperature", "value": "0389"}, "sensor_04": {"name": "uV", "value": "1123"}, "sensor_05": {"name": " Air Humidity", "value": "1254"}, "sensor_06": {"name": "Air Temperature", "value": "0158"}}}}, "rightNow": "2017-07-06 14:14:49", "_id": "0"}, "18": {"idCount": 18, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:15:03", "payload": {"sensor_01": {"name": "pH", "value": "1426"}, "sensor_02": {"name": "Soil Humidity", "value": "1472"}, "sensor_03": {"name": "Soil Temperature", "value": "0410"}, "sensor_04": {"name": "uV", "value": "1324"}, "sensor_05": {"name": " Air Humidity", "value": "1494"}, "sensor_06": {"name": "Air Temperature", "value": "0058"}}}}, "rightNow": "2017-07-06 14:15:03", "_id": "0"}, "19": {"idCount": 19, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:15:23", "payload": {"sensor_01": {"name": "pH", "value": "1003"}, "sensor_02": {"name": "Soil Humidity", "value": "1103"}, "sensor_03": {"name": "Soil Temperature", "value": "0278"}, "sensor_04": {"name": "uV", "value": "0918"}, "sensor_05": {"name": " Air Humidity", "value": "1025"}, "sensor_06": {"name": "Air Temperature", "value": "0246"}}}}, "rightNow": "2017-07-06 14:15:23", "_id": "0"}, "20": {"idCount": 20, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:15:42", "payload": {"sensor_01": {"name": "pH", "value": "1161"}, "sensor_02": {"name": "Soil Humidity", "value": "1231"}, "sensor_03": {"name": "Soil Temperature", "value": "0267"}, "sensor_04": {"name": "uV", "value": "1056"}, "sensor_05": {"name": " Air Humidity", "value": "1194"}, "sensor_06": {"name": "Air Temperature", "value": "0107"}}}}, "rightNow": "2017-07-06 14:15:42", "_id": "0"}, "21": {"idCount": 21, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:15:56", "payload": {"sensor_01": {"name": "pH", "value": "1314"}, "sensor_02": {"name": "Soil Humidity", "value": "1383"}, "sensor_03": {"name": "Soil Temperature", "value": "0409"}, "sensor_04": {"name": "uV", "value": "1223"}, "sensor_05": {"name": " Air Humidity", "value": "1372"}, "sensor_06": {"name": "Air Temperature", "value": "0229"}}}}, "rightNow": "2017-07-06 14:15:56", "_id": "0"}, "22": {"idCount": 22, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:16:10", "payload": {"sensor_01": {"name": "pH", "value": "1423"}, "sensor_02": {"name": "Soil Humidity", "value": "1467"}, "sensor_03": {"name": "Soil Temperature", "value": "0404"}, "sensor_04": {"name": "uV", "value": "1318"}, "sensor_05": {"name": " Air Humidity", "value": "1488"}, "sensor_06": {"name": "Air Temperature", "value": "0053"}}}}, "rightNow": "2017-07-06 14:16:10", "_id": "0"}, "23": {"idCount": 23, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:16:24", "payload": {"sensor_01": {"name": "pH", "value": "1408"}, "sensor_02": {"name": "Soil Humidity", "value": "1455"}, "sensor_03": {"name": "Soil Temperature", "value": "0402"}, "sensor_04": {"name": "uV", "value": "1303"}, "sensor_05": {"name": " Air Humidity", "value": "1472"}, "sensor_06": {"name": "Air Temperature", "value": "0050"}}}}, "rightNow": "2017-07-06 14:16:24", "_id": "0"}, "24": {"idCount": 24, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:16:38", "payload": {"sensor_01": {"name": "pH", "value": "1397"}, "sensor_02": {"name": "Soil Humidity", "value": "1438"}, "sensor_03": {"name": "Soil Temperature", "value": "0408"}, "sensor_04": {"name": "uV", "value": "1284"}, "sensor_05": {"name": " Air Humidity", "value": "1443"}, "sensor_06": {"name": "Air Temperature", "value": "0052"}}}}, "rightNow": "2017-07-06 14:16:38", "_id": "0"}, "25": {"idCount": 25, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:16:53", "payload": {"sensor_01": {"name": "pH", "value": "1026"}, "sensor_02": {"name": "Soil Humidity", "value": "1112"}, "sensor_03": {"name": "Soil Temperature", "value": "0240"}, "sensor_04": {"name": "uV", "value": "0921"}, "sensor_05": {"name": " Air Humidity", "value": "1035"}, "sensor_06": {"name": "Air Temperature", "value": "0016"}}}}, "rightNow": "2017-07-06 14:16:53", "_id": "0"}, "26": {"idCount": 26, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:17:07", "payload": {"sensor_01": {"name": "pH", "value": "1213"}, "sensor_02": {"name": "Soil Humidity", "value": "1283"}, "sensor_03": {"name": "Soil Temperature", "value": "0387"}, "sensor_04": {"name": "uV", "value": "1112"}, "sensor_05": {"name": " Air Humidity", "value": "1240"}, "sensor_06": {"name": "Air Temperature", "value": "0174"}}}}, "rightNow": "2017-07-06 14:17:07", "_id": "0"}, "27": {"idCount": 27, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:17:21", "payload": {"sensor_01": {"name": "pH", "value": "1412"}, "sensor_02": {"name": "Soil Humidity", "value": "1456"}, "sensor_03": {"name": "Soil Temperature", "value": "0406"}, "sensor_04": {"name": "uV", "value": "1306"}, "sensor_05": {"name": " Air Humidity", "value": "1474"}, "sensor_06": {"name": "Air Temperature", "value": "0052"}}}}, "rightNow": "2017-07-06 14:17:21", "_id": "0"}, "28": {"idCount": 28, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:17:40", "payload": {"sensor_01": {"name": "pH", "value": "1416"}, "sensor_02": {"name": "Soil Humidity", "value": "1460"}, "sensor_03": {"name": "Soil Temperature", "value": "0409"}, "sensor_04": {"name": "uV", "value": "1310"}, "sensor_05": {"name": " Air Humidity", "value": "1478"}, "sensor_06": {"name": "Air Temperature", "value": "0056"}}}}, "rightNow": "2017-07-06 14:17:40", "_id": "0"}, "29": {"idCount": 29, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:17:54", "payload": {"sensor_01": {"name": "pH", "value": "0980"}, "sensor_02": {"name": "Soil Humidity", "value": "1070"}, "sensor_03": {"name": "Soil Temperature", "value": "0232"}, "sensor_04": {"name": "uV", "value": "0875"}, "sensor_05": {"name": " Air Humidity", "value": "0981"}, "sensor_06": {"name": "Air Temperature", "value": "0238"}}}}, "rightNow": "2017-07-06 14:17:54", "_id": "0"}, "30": {"idCount": 30, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:18:08", "payload": {"sensor_01": {"name": "pH", "value": "1408"}, "sensor_02": {"name": "Soil Humidity", "value": "1456"}, "sensor_03": {"name": "Soil Temperature", "value": "0394"}, "sensor_04": {"name": "uV", "value": "1304"}, "sensor_05": {"name": " Air Humidity", "value": "1474"}, "sensor_06": {"name": "Air Temperature", "value": "0042"}}}}, "rightNow": "2017-07-06 14:18:08", "_id": "0"}, "31": {"idCount": 31, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:18:22", "payload": {"sensor_01": {"name": "pH", "value": "0987"}, "sensor_02": {"name": "Soil Humidity", "value": "1086"}, "sensor_03": {"name": "Soil Temperature", "value": "0262"}, "sensor_04": {"name": "uV", "value": "0900"}, "sensor_05": {"name": " Air Humidity", "value": "1005"}, "sensor_06": {"name": "Air Temperature", "value": "0233"}}}}, "rightNow": "2017-07-06 14:18:22", "_id": "0"}, "32": {"idCount": 32, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:18:41", "payload": {"sensor_01": {"name": "pH", "value": "1038"}, "sensor_02": {"name": "Soil Humidity", "value": "1123"}, "sensor_03": {"name": "Soil Temperature", "value": "0275"}, "sensor_04": {"name": "uV", "value": "0935"}, "sensor_05": {"name": " Air Humidity", "value": "1047"}, "sensor_06": {"name": "Air Temperature", "value": "0036"}}}}, "rightNow": "2017-07-06 14:18:41", "_id": "0"}, "33": {"idCount": 33, "name": "MEMSiTech Application", "welcome": "Hello, guest!", "type": "json", "payload": {"Node_01": {"name": "0017", "rightNow": "2017-07-06 14:18:55", "payload": {"sensor_01": {"name": "pH", "value": "1281"}, "sensor_02": {"name": "Soil Humidity", "value": "1329"}, "sensor_03": {"name": "Soil Temperature", "value": "0342"}, "sensor_04": {"name": "uV", "value": "1164"}, "sensor_05": {"name": " Air Humidity", "value": "1308"}, "sensor_06": {"name": "Air Temperature", "value": "0219"}}}}, "rightNow": "2017-07-06 14:18:55", "_id": "0"}}}
+{
+  "_default": {
+    "1": {
+      "idCount": 1,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:09:48",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1045"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1123"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0239"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0940"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1065"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0046"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:09:48",
+      "_id": "0"
+    },
+    "2": {
+      "idCount": 2,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:09:58",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1371"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1412"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0390"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1265"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1428"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0045"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:09:58",
+      "_id": "0"
+    },
+    "3": {
+      "idCount": 3,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:10:08",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1454"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1493"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0418"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1342"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1517"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0110"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:10:08",
+      "_id": "0"
+    },
+    "4": {
+      "idCount": 4,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:10:18",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1220"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1272"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0299"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1108"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1255"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0183"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:10:18",
+      "_id": "0"
+    },
+    "5": {
+      "idCount": 5,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:10:59",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1360"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1399"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0377"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1245"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1405"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0036"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:10:59",
+      "_id": "0"
+    },
+    "6": {
+      "idCount": 6,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:11:09",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1377"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1417"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0392"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1269"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1432"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0050"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:11:09",
+      "_id": "0"
+    },
+    "7": {
+      "idCount": 7,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:11:19",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1376"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1414"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0391"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1268"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1432"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0049"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:11:19",
+      "_id": "0"
+    },
+    "8": {
+      "idCount": 8,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:11:29",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1390"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1439"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0412"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1284"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1450"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0064"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:11:29",
+      "_id": "0"
+    },
+    "9": {
+      "idCount": 9,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:11:39",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1019"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1103"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0259"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0920"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1034"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0031"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:11:39",
+      "_id": "0"
+    },
+    "10": {
+      "idCount": 10,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:11:48",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1348"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1390"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0371"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1237"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1397"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0018"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:11:48",
+      "_id": "0"
+    },
+    "11": {
+      "idCount": 11,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:11:58",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1383"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1425"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0393"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1278"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1445"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0050"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:11:58",
+      "_id": "0"
+    },
+    "12": {
+      "idCount": 12,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:12:08",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1436"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1480"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0416"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1328"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1502"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0094"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:12:08",
+      "_id": "0"
+    },
+    "13": {
+      "idCount": 13,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:12:17",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1410"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1447"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0395"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1297"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1466"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0074"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:12:17",
+      "_id": "0"
+    },
+    "14": {
+      "idCount": 14,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 12:12:27",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1141"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1213"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0348"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1046"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1170"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0127"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 12:12:27",
+      "_id": "0"
+    },
+    "15": {
+      "idCount": 15,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:14:21",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1101"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1100"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0404"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1090"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1201"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0168"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:14:21",
+      "_id": "0"
+    },
+    "16": {
+      "idCount": 16,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:14:35",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1342"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1404"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0411"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1245"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1399"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0003"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:14:35",
+      "_id": "0"
+    },
+    "17": {
+      "idCount": 17,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:14:49",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1212"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1290"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0389"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1123"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1254"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0158"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:14:49",
+      "_id": "0"
+    },
+    "18": {
+      "idCount": 18,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:15:03",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1426"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1472"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0410"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1324"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1494"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0058"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:15:03",
+      "_id": "0"
+    },
+    "19": {
+      "idCount": 19,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:15:23",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1003"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1103"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0278"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0918"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1025"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0246"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:15:23",
+      "_id": "0"
+    },
+    "20": {
+      "idCount": 20,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:15:42",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1161"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1231"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0267"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1056"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1194"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0107"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:15:42",
+      "_id": "0"
+    },
+    "21": {
+      "idCount": 21,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:15:56",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1314"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1383"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0409"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1223"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1372"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0229"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:15:56",
+      "_id": "0"
+    },
+    "22": {
+      "idCount": 22,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:16:10",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1423"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1467"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0404"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1318"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1488"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0053"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:16:10",
+      "_id": "0"
+    },
+    "23": {
+      "idCount": 23,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:16:24",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1408"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1455"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0402"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1303"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1472"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0050"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:16:24",
+      "_id": "0"
+    },
+    "24": {
+      "idCount": 24,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:16:38",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1397"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1438"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0408"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1284"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1443"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0052"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:16:38",
+      "_id": "0"
+    },
+    "25": {
+      "idCount": 25,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:16:53",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1026"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1112"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0240"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0921"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1035"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0016"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:16:53",
+      "_id": "0"
+    },
+    "26": {
+      "idCount": 26,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:17:07",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1213"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1283"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0387"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1112"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1240"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0174"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:17:07",
+      "_id": "0"
+    },
+    "27": {
+      "idCount": 27,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:17:21",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1412"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1456"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0406"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1306"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1474"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0052"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:17:21",
+      "_id": "0"
+    },
+    "28": {
+      "idCount": 28,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:17:40",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1416"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1460"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0409"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1310"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1478"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0056"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:17:40",
+      "_id": "0"
+    },
+    "29": {
+      "idCount": 29,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:17:54",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "0980"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1070"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0232"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0875"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "0981"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0238"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:17:54",
+      "_id": "0"
+    },
+    "30": {
+      "idCount": 30,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:18:08",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1408"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1456"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0394"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1304"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1474"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0042"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:18:08",
+      "_id": "0"
+    },
+    "31": {
+      "idCount": 31,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:18:22",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "0987"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1086"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0262"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0900"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1005"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0233"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:18:22",
+      "_id": "0"
+    },
+    "32": {
+      "idCount": 32,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:18:41",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1038"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1123"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0275"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0935"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1047"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0036"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:18:41",
+      "_id": "0"
+    },
+    "33": {
+      "idCount": 33,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:18:55",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1281"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1329"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0342"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1164"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1308"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0219"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:18:55",
+      "_id": "0"
+    },
+    "34": {
+      "idCount": 34,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:50:29",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1542"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1547"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0427"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1359"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1521"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0216"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:50:29",
+      "_id": "0"
+    },
+    "35": {
+      "idCount": 35,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:50:44",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1200"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1217"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0389"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1068"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1191"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0242"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:50:44",
+      "_id": "0"
+    },
+    "36": {
+      "idCount": 36,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:50:57",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1630"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1617"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0429"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1444"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1625"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0042"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:50:57",
+      "_id": "0"
+    },
+    "37": {
+      "idCount": 37,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:51:11",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1321"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1339"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0423"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1184"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1329"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0079"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:51:11",
+      "_id": "0"
+    },
+    "38": {
+      "idCount": 38,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:53:27",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1246"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1282"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0416"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1110"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1235"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0010"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:53:27",
+      "_id": "0"
+    },
+    "39": {
+      "idCount": 39,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:53:42",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1478"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1484"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0421"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1315"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1475"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0173"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:53:42",
+      "_id": "0"
+    },
+    "40": {
+      "idCount": 40,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:53:57",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "0991"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1044"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0261"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0865"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "0971"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0072"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:53:57",
+      "_id": "0"
+    },
+    "41": {
+      "idCount": 41,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:54:10",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1484"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1490"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0422"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1321"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1481"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0178"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:54:10",
+      "_id": "0"
+    },
+    "42": {
+      "idCount": 42,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:54:24",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1506"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1508"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0424"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1340"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1504"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0197"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:54:24",
+      "_id": "0"
+    },
+    "43": {
+      "idCount": 43,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:54:38",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1512"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1513"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0424"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1346"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1511"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0200"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:54:38",
+      "_id": "0"
+    },
+    "44": {
+      "idCount": 44,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:54:52",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1516"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1518"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0423"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1349"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1515"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0202"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:54:52",
+      "_id": "0"
+    },
+    "45": {
+      "idCount": 45,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:55:11",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1318"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1334"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0377"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1168"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1306"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0050"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:55:11",
+      "_id": "0"
+    },
+    "46": {
+      "idCount": 46,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:55:25",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1205"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1245"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0407"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1075"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1194"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0233"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:55:25",
+      "_id": "0"
+    },
+    "47": {
+      "idCount": 47,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:55:39",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "0973"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1025"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0247"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0843"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "0947"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0057"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:55:39",
+      "_id": "0"
+    },
+    "48": {
+      "idCount": 48,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:55:53",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1518"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1520"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0423"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1352"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1519"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0206"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:55:53",
+      "_id": "0"
+    },
+    "49": {
+      "idCount": 49,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:56:07",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1149"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1182"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0303"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1007"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1130"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0182"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:56:07",
+      "_id": "0"
+    },
+    "50": {
+      "idCount": 50,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:56:21",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1469"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1520"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0420"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1364"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1536"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0069"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:56:21",
+      "_id": "0"
+    },
+    "51": {
+      "idCount": 51,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:56:35",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1405"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1470"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0423"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1310"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1473"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0028"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:56:35",
+      "_id": "0"
+    },
+    "52": {
+      "idCount": 52,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:56:48",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1315"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1391"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0416"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1233"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1381"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0212"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:56:48",
+      "_id": "0"
+    },
+    "53": {
+      "idCount": 53,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:57:02",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1157"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1200"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0389"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1031"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1141"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0196"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:57:02",
+      "_id": "0"
+    },
+    "54": {
+      "idCount": 54,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:57:22",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1509"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1512"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0423"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1346"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1513"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0197"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:57:22",
+      "_id": "0"
+    },
+    "55": {
+      "idCount": 55,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:57:41",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1074"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1126"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0339"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0949"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1053"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0134"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:57:41",
+      "_id": "0"
+    },
+    "56": {
+      "idCount": 56,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:57:55",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1514"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1515"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0422"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1350"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1516"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0201"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:57:55",
+      "_id": "0"
+    },
+    "57": {
+      "idCount": 57,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:58:08",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1507"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1510"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0423"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1344"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1510"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0196"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:58:08",
+      "_id": "0"
+    },
+    "58": {
+      "idCount": 58,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:58:22",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1253"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1305"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0416"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1138"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1261"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0227"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:58:22",
+      "_id": "0"
+    },
+    "59": {
+      "idCount": 59,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:58:36",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1259"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1282"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0347"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1112"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1244"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0007"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:58:36",
+      "_id": "0"
+    },
+    "60": {
+      "idCount": 60,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:58:50",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1286"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1321"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0417"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1146"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1277"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0035"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:58:50",
+      "_id": "0"
+    },
+    "61": {
+      "idCount": 61,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:59:04",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1387"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1441"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0401"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1290"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1449"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0015"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:59:04",
+      "_id": "0"
+    },
+    "62": {
+      "idCount": 62,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:59:18",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1333"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1391"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0370"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1233"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1387"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0225"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:59:18",
+      "_id": "0"
+    },
+    "63": {
+      "idCount": 63,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:59:32",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1406"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1460"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0405"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1306"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1469"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0027"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:59:32",
+      "_id": "0"
+    },
+    "64": {
+      "idCount": 64,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 14:59:51",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1411"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1466"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0408"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1312"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1476"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0029"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 14:59:51",
+      "_id": "0"
+    },
+    "65": {
+      "idCount": 65,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:00:05",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1508"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1523"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0426"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1354"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1514"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0172"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:00:05",
+      "_id": "0"
+    },
+    "66": {
+      "idCount": 66,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:00:21",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1596"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1586"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0426"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1427"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1610"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0015"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:00:21",
+      "_id": "0"
+    },
+    "67": {
+      "idCount": 67,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:00:35",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1599"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1586"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0425"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1429"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1614"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0015"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:00:35",
+      "_id": "0"
+    },
+    "68": {
+      "idCount": 68,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:00:48",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1527"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1523"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0424"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1365"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1541"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0220"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:00:48",
+      "_id": "0"
+    },
+    "69": {
+      "idCount": 69,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:01:02",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1278"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1298"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0368"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1128"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1261"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0023"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:01:02",
+      "_id": "0"
+    },
+    "70": {
+      "idCount": 70,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:01:22",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1575"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1563"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0425"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1405"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1587"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0252"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:01:22",
+      "_id": "0"
+    },
+    "71": {
+      "idCount": 71,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:02:37",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "0991"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "0979"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0357"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0941"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1034"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0016"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:02:37",
+      "_id": "0"
+    },
+    "72": {
+      "idCount": 72,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:02:51",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1263"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1286"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0336"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1119"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1256"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0023"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:02:51",
+      "_id": "0"
+    },
+    "73": {
+      "idCount": 73,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:03:05",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1317"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1338"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0374"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1167"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1304"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0060"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:03:05",
+      "_id": "0"
+    },
+    "74": {
+      "idCount": 74,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:03:20",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1291"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1312"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0359"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1144"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1280"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0042"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:03:20",
+      "_id": "0"
+    },
+    "75": {
+      "idCount": 75,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:03:34",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1462"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1492"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0412"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1308"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1463"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0125"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:03:34",
+      "_id": "0"
+    },
+    "76": {
+      "idCount": 76,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:03:47",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1259"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1282"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0337"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1115"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1251"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0018"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:03:47",
+      "_id": "0"
+    },
+    "77": {
+      "idCount": 77,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:04:01",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1404"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1422"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0398"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1239"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1385"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0117"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:04:01",
+      "_id": "0"
+    },
+    "78": {
+      "idCount": 78,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:04:15",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1378"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1393"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0391"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1222"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1369"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0104"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:04:15",
+      "_id": "0"
+    },
+    "79": {
+      "idCount": 79,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:04:29",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1367"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1383"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0389"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1211"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1357"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0095"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:04:29",
+      "_id": "0"
+    },
+    "80": {
+      "idCount": 80,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:04:43",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1344"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1361"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0378"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1188"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1330"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0077"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:04:43",
+      "_id": "0"
+    },
+    "81": {
+      "idCount": 81,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0017",
+          "rightNow": "2017-07-06 15:05:02",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1357"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1372"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0381"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1202"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1346"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0087"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-06 15:05:02",
+      "_id": "0"
+    },
+    "82": {
+      "idCount": 82,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 08:59:12",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1121"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "3108"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1538"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0489"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1433"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0004"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 08:59:12",
+      "_id": "0"
+    },
+    "83": {
+      "idCount": 83,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 08:59:27",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1324"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "3108"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1538"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0486"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1447"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0249"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 08:59:27",
+      "_id": "0"
+    },
+    "84": {
+      "idCount": 84,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 08:59:41",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1084"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1070"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0407"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1083"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1196"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0164"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 08:59:41",
+      "_id": "0"
+    },
+    "85": {
+      "idCount": 85,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 08:59:56",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1540"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1525"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0424"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1386"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1574"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0254"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 08:59:56",
+      "_id": "0"
+    },
+    "86": {
+      "idCount": 86,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:00:36",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1450"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1449"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0422"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1303"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1474"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0184"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:00:36",
+      "_id": "0"
+    },
+    "87": {
+      "idCount": 87,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:00:51",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1413"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1417"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0419"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1268"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1432"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0155"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:00:51",
+      "_id": "0"
+    },
+    "88": {
+      "idCount": 88,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:01:05",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1480"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1476"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0422"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1331"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1507"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0206"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:01:05",
+      "_id": "0"
+    },
+    "89": {
+      "idCount": 89,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:01:19",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1155"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1182"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0285"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1010"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1142"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0210"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:01:19",
+      "_id": "0"
+    },
+    "90": {
+      "idCount": 90,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:01:32",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1416"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1414"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0387"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1267"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1434"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0152"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:01:32",
+      "_id": "0"
+    },
+    "91": {
+      "idCount": 91,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:01:46",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1423"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1421"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0392"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1276"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1444"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0158"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:01:46",
+      "_id": "0"
+    },
+    "92": {
+      "idCount": 92,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:02:00",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1221"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1241"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0302"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1074"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1216"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0002"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:02:00",
+      "_id": "0"
+    },
+    "93": {
+      "idCount": 93,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:02:14",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1243"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1269"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0383"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1111"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1245"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0025"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:02:14",
+      "_id": "0"
+    },
+    "94": {
+      "idCount": 94,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:02:28",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1480"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1472"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0408"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1330"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1507"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0201"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:02:28",
+      "_id": "0"
+    },
+    "95": {
+      "idCount": 95,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:02:42",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1117"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1154"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0298"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0981"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1105"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0186"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:02:42",
+      "_id": "0"
+    },
+    "96": {
+      "idCount": 96,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:02:56",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1245"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1263"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0312"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1099"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1244"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0022"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:02:56",
+      "_id": "0"
+    },
+    "97": {
+      "idCount": 97,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:03:10",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1166"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1198"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0335"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1033"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1159"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0221"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:03:10",
+      "_id": "0"
+    },
+    "98": {
+      "idCount": 98,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:03:24",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1515"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1506"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0422"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1365"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1548"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0230"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:03:24",
+      "_id": "0"
+    },
+    "99": {
+      "idCount": 99,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:03:37",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1450"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1445"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0401"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1303"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1475"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0178"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:03:37",
+      "_id": "0"
+    },
+    "100": {
+      "idCount": 100,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:03:51",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1256"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1273"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0315"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1111"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1257"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0030"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:03:51",
+      "_id": "0"
+    },
+    "101": {
+      "idCount": 101,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:04:05",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1255"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1272"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0315"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1110"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1256"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0029"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:04:05",
+      "_id": "0"
+    },
+    "102": {
+      "idCount": 102,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:04:19",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1396"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1396"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0379"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1249"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1415"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0136"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:04:19",
+      "_id": "0"
+    },
+    "103": {
+      "idCount": 103,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_02": {
+          "name": "0017",
+          "rightNow": "2017-07-07 09:04:33",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1427"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1432"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "0418"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "1284"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1452"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0165"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:04:33",
+      "_id": "0"
+    },
+    "104": {
+      "idCount": 104,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:00:25",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1221"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1480"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1550"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0488"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1500"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0005"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:00:25",
+      "_id": "0"
+    },
+    "105": {
+      "idCount": 105,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:00:43",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1222"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1525"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1545"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0489"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1520"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0001"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:00:43",
+      "_id": "0"
+    },
+    "106": {
+      "idCount": 106,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:00:59",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1240"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1547"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1546"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0489"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1529"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0005"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:00:59",
+      "_id": "0"
+    },
+    "107": {
+      "idCount": 107,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:01:14",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1258"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1565"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1549"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0489"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1546"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0011"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:01:14",
+      "_id": "0"
+    },
+    "108": {
+      "idCount": 108,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:01:29",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1263"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1566"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1549"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0489"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1554"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0012"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:01:29",
+      "_id": "0"
+    },
+    "109": {
+      "idCount": 109,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:12:12",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1246"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1569"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1550"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0488"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1553"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0012"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:12:12",
+      "_id": "0"
+    },
+    "110": {
+      "idCount": 110,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:12:27",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1259"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1571"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1548"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0489"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1565"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0014"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:12:27",
+      "_id": "0"
+    },
+    "111": {
+      "idCount": 111,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:12:41",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1251"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1568"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1549"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0488"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1558"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0254"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:12:41",
+      "_id": "0"
+    },
+    "112": {
+      "idCount": 112,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:12:56",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1245"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1570"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1553"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0488"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1564"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0233"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:12:56",
+      "_id": "0"
+    },
+    "113": {
+      "idCount": 113,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:14:46",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1196"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1342"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1535"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0489"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1620"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0240"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:14:46",
+      "_id": "0"
+    },
+    "114": {
+      "idCount": 114,
+      "name": "MEMSiTech Application",
+      "welcome": "Hello, guest!",
+      "type": "json",
+      "payload": {
+        "Node_01": {
+          "name": "0034",
+          "rightNow": "2017-07-07 09:15:01",
+          "payload": {
+            "sensor_01": {
+              "name": "pH",
+              "value": "1208"
+            },
+            "sensor_02": {
+              "name": "Soil Humidity",
+              "value": "1492"
+            },
+            "sensor_03": {
+              "name": "Soil Temperature",
+              "value": "1549"
+            },
+            "sensor_04": {
+              "name": "uV",
+              "value": "0488"
+            },
+            "sensor_05": {
+              "name": " Air Humidity",
+              "value": "1618"
+            },
+            "sensor_06": {
+              "name": "Air Temperature",
+              "value": "0001"
+            }
+          }
+        }
+      },
+      "rightNow": "2017-07-07 09:15:01",
+      "_id": "0"
+    }
+  }
+}

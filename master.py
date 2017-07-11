@@ -245,6 +245,21 @@ class SYNC_local_Cloudant():
             return True
         return False
 
+    def getdatabaseCloudant(self, namelocal):
+    #     # in case size of local < size of Cloudant
+        jsonSampleLocal = {}
+        lenCloudant = self._lenCloudant
+        lenlocal = self._lenlocal
+
+        if '_design/idCount' not in db[namelocal].list_design_documents():
+            db[namelocal].create_query_index(design_document_id="_design/idCount", index_name="idCount", index_type="json", fields=[{"idCount":"asc"}])
+        querylist = db[namelocal].get_query_result(selector = {'idCount':{'$gt':0}}, fields = ['idCount'],sort = [{'idCount':"asc"}],raw_result=True)
+        length = len(querylist['docs'])
+        print querylist['docs']
+        list_idCount = []
+        for x in xrange(0,length):
+            list_idCount.append(querylist['docs'][x]['idCount'])
+
 def refresh_sampledata(nameSeason, jsondata):
     #####----------------#####
     #   get current Season to send data 
